@@ -11,7 +11,7 @@ pipeline {
 	    stage('build'){
             steps{
 		        echo "building ..."
-		        bat "\"${msbuild}\" HelloWorld\\HelloWorld.sln"
+		        bat "msbuild.exe HelloWorld\\HelloWorld.sln"
 	        }
 		}
 	}
