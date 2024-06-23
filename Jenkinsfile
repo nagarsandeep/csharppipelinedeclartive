@@ -8,7 +8,7 @@ pipeline {
 	    stage('build'){
             steps{
 		        echo "building ..."
-		        bat \"${Msbuild2019}\" "C:\\Users\\sandnaga\\.jenkins\\csharppipelinedeclarativepipeline\\MsBuild\HelloWorld\\HelloWorld.sln"
+		        bat \"${msbuild}\" "csharppipelinedeclarativepipeline\\MsBuild\HelloWorld\\HelloWorld.sln"
 	        }
 		}
 	}
