@@ -1,0 +1,11 @@
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\UnitTestHelloWorld.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\UnitTestHelloWorld.pdb
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\HelloWorld.exe
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\HelloWorld.pdb
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\x64\Debug\HelloWorld.exe.config
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\x64\Debug\UnitTestHelloWorld.csproj.AssemblyReference.cache
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\x64\Debug\UnitTestHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\x64\Debug\UnitTestHelloWorld.csproj.CopyComplete
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\x64\Debug\UnitTestHelloWorld.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\x64\Debug\UnitTestHelloWorld.pdb

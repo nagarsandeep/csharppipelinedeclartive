@@ -1,0 +1,18 @@
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.exe
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+c:\users\sannagar\documents\visual studio 2013\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csproj.AssemblyReference.cache
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csproj.CopyComplete
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+C:\Users\sandnaga\.jenkins\workspace\MsBuild\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
