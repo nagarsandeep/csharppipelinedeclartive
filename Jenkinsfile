@@ -11,7 +11,7 @@ pipeline {
 	    stage('build'){
             steps{
 		        echo "building ..."
-		        bat "\"${Msbuild2019}\" csharppipelinedeclarativepipeline\\MsBuild\\HelloWorld\\HelloWorld.sln"
+		        bat "\"${Msbuild2019}\" MsBuild\\HelloWorld\\HelloWorld.sln"
 	        }
 		}
 	}
